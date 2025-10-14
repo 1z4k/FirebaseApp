@@ -11,6 +11,7 @@
 .svn/
 .swiftpm/
 migrate_working_dir/
+pubspec.lock
 
 # IntelliJ related
 *.iml
@@ -43,3 +44,8 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+# Firebase
+firebase.json
+.firebase
+lib/firebase_options.dart
+android/app/google-services.json
