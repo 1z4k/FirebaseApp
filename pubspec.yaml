@@ -43,6 +43,7 @@ dependencies:
   geoflutterfire_plus: ^0.0.33
   http: ^1.5.0
   latlong2: ^0.9.1
+  geolocator: ^14.0.2
 
 dev_dependencies:
   flutter_test:
